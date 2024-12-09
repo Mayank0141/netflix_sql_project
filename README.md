@@ -3,7 +3,7 @@
 ![](https://github.com/Mayank0141/netflix_sql_project/blob/main/logo.png)
 
 ## Overview
-This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL. The goal is to extract valuable insights and answer various business questions based on the dataset. 
+This project involves a comprehensive analysis of Netflix's movies and TV shows data using SQL(MySQL). The goal is to extract valuable insights and answer various business questions based on the dataset. 
 
 ## Objectives
 
